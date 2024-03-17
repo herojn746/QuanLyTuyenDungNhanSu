@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6513fa31f792a808a73701a6"
+  },
+  "TenTaiKhoan": "tuyendung",
+  "MatKhau": "123",
+  "QuyenHan": "ADMIN"
+},
+{
+  "_id": {
+    "$oid": "65390d644b70475987f2dcf9"
+  },
+  "TenTaiKhoan": "nhanvien",
+  "MatKhau": "123",
+  "QuyenHan": "NhanVien"
+}]
